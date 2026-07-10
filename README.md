@@ -1,4 +1,4 @@
-# This repository is not complete yet. Some important algorithms will be uploaded soon.
+# This repository is not complete yet. Some important algorithms will be uploaded in a week.
 
 - Principal Component Analysis.
 - t-Sne
