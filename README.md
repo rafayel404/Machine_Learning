@@ -1,5 +1,6 @@
-# This repository is not complete yet. Some important algorithms will be uploaded in a week.
+# This repository is not complete yet. Some important algorithms will be uploaded in a week. Running some experiment on these topics.
 
+- Logistic Regression
 - Principal Component Analysis.
 - t-Sne
 - Naive Bayes
